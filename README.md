@@ -2,7 +2,10 @@
 
 ## Overview
 
-This is a very simple, bare-bones NodeJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS project created use with Docker.
+For:
+Docker Image builds and Container tuts.
+CI/CD exercise for Travis CI tuts.
 
 ## Local Setup
 
